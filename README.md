@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 [![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/lhnuwm0kcboyjgi7gytg.png)](https://www.linkedin.com/in/elisangelamsilva/)
 [![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/r4s2aiy4v39jywj6zh8c.png)](https://dev.to/elisangelamsilva)
-[![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/uxulcfk3nur9d1ybs9w9.png)](https://twitter.com/elisannsilva)
