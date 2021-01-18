@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/lhnuwm0kcboyjgi7gytg.png)](https://www.linkedin.com/in/elisangelamsilva/)
-[![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/r4s2aiy4v39jywj6zh8c.png)](https://dev.to/elisangelamsilva)
+👩‍🔬  🔬 Chemistry student, passionate about technology and learning programming. ⚗🧪
+
+![](https://media.giphy.com/media/l2JeeIKT2C3ezXvSo/giphy.gif)
+
+
