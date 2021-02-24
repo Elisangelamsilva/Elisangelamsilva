@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 
 👩‍🔬  🔬 Chemistry student, passionate about technology and learning programming. ⚗🧪
 
-![](https://media.giphy.com/media/l2JeeIKT2C3ezXvSo/giphy.gif)
 
 
