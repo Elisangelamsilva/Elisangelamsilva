@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👩‍🔬  🔬 Chemistry student, passionate about technology and learning programming. ⚗🧪
+👩‍🔬 🔬 ⚗🧪
 
 
 
